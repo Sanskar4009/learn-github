@@ -42,3 +42,18 @@ git remote add origin ...
    8 git push origin master 
 
 so i am currently adding someting from the github
+
+git log                  
+   3 git status               
+   4 git push origin de       
+   5 git status               
+   6 git add .\new-repo-lea...
+   7 git switch de            
+   8 git status               
+   9 git add .                
+  10 git commit "add new fi...
+  11 clear                    
+  12 git status               
+  13 git push origin de       
+  14 git commit -m "updated...
+  15 git push origin de 
