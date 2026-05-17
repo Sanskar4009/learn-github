@@ -57,3 +57,54 @@ git log
   13 git push origin de       
   14 git commit -m "updated...
   15 git push origin de 
+
+
+   ls -a                    
+   3 clear                    
+   4 ls                       
+   5 ls -a                    
+   6 dir :.h                  
+   7 ls -Force                
+   8 cd .git                  
+   9 ls                       
+  10 cd hooks                 
+  11 ls                       
+  12 vim pre-commit           
+  13 cd ..                    
+  14 cd ..                    
+  15 pip install flake8       
+  16 python.exe -m pip inst...
+  17 e:\btech\devops engi j...
+  18 pip install flake8       
+  19 flake8 demo.py           
+  20 & "E:\btech\devops eng...
+  21 python -m flake8 demo.py 
+  22 flake8 demo.py           
+  23 cd .git/hooks            
+  24 ls -l pre-commit         
+  25 chmod +x .git/hooks/pr...
+  26 chmod +x pre-commit      
+  27 ls -l .\pre-commit       
+  28 cat pre-commit           
+  29 chmod 777 pre-commit     
+  30 ls -l                    
+  31 ls -a                    
+  32 ls =l pre-commit         
+  33 cd ..                    
+  34 cd ..                    
+  35 git status               
+  36 git add.                 
+  37 git add .                
+  38 git commit -m "added n...
+  39 git status               
+  40 git commit -m "new file" 
+  41 del .git\hooks\pre-commit
+  42 notepad .git\hooks\pre...
+  43 git update-index --chm...
+  44 git config --global co...
+  45 git commit -m "testing...
+  46 git status               
+  47 git add .                
+  48 git add demo.py          
+  49 git commit -m "testing...
+  50 git push origin master  
