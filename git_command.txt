@@ -108,3 +108,28 @@ git log
   48 git add demo.py          
   49 git commit -m "testing...
   50 git push origin master  
+
+
+
+
+
+  git commands learned on 21-may
+    16 cat pre-commit                                                                
+  17 cd ../..                                                                      
+  18 echo test >> demo.py                                                          
+  19 git add .                                                                     
+  20 git commit -m "testing precommit"                                             
+  21 git status                                                                    
+  22 git restore --stageddemo.py                                                   
+  23 git add demo.py                                                               
+  24 git status                                                                    
+  25 git status                                                                    
+  26 rm demo.py                                                                    
+  27 git status                                                                    
+  28 git restore demo.py                                                           
+  29 git status                                                                    
+  30 notepad demo.py                                                               
+  31 git add demo.py                                                               
+  32 git commit -m "fixed demo file"                                               
+  33 git add .\demo.py                                                             
+  34 git commit -m "fixed demo file"                                               
