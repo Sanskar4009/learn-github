@@ -1,4 +1,10 @@
 def my_func():
+    """
+    Return the sum of three integers.
+
+    Returns:
+        int: Sum of a, b, and c.
+    """
     a = 5
     b = 6
     c = 7
@@ -6,4 +12,4 @@ def my_func():
     return a + b + c
 
 
-my_func()
+print(my_func())

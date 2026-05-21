@@ -1,9 +1,9 @@
 def hello():
     """
-    This is a demo function to test the pre-commit hook.
+    Display a greeting message.
 
-    It checks for syntax and style issues before allowing
-    the commit to go through.
+    This function is used to test pylint,
+    flake8, and pre-commit hooks.
     """
     print("Hello World")
 
