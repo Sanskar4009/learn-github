@@ -3,7 +3,8 @@ def my_func():
     a=5
     b=6
     c=6
-    return a+b+c + passwrd
+    d=kk
+    return a+b+c+d + passwrd
 
 my_func()
 
