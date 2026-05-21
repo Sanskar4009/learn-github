@@ -1,9 +1,11 @@
+"""
+This module contains a hello world example.
+"""
+
+
 def hello():
     """
-    Display a greeting message.
-
-    This function is used to test pylint,
-    flake8, and pre-commit hooks.
+    Print a greeting message.
     """
     print("Hello World")
 

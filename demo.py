@@ -1,9 +1,11 @@
+"""
+This module contains a simple math function.
+"""
+
+
 def my_func():
     """
     Return the sum of three integers.
-
-    Returns:
-        int: Sum of a, b, and c.
     """
     a = 5
     b = 6
